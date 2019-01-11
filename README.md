@@ -1,2 +1,2 @@
 # lm2018task2
-htlm5 with semantic labels,videos,svg and canvas and also a sticky header with nav menu
+He echo un html 5 con etiquetas semanticas,css,sumary,ditails, y ademas canvas, un menu fijo un footer
